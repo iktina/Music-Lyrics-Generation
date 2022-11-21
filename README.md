@@ -21,4 +21,34 @@ Example of output file content:
 
 ## What to expect from this service?
 ### Inputs:
+```
+In a dark blue forest,
+Where aspens tremble,
+```
 ### Outputs:
+```
+In a dark blue forest,
+Where aspens tremble,
+The flowers sigh,
+And glow among the trees.
+
+The chapel bell yonder,
+Bursting in the air,
+And clear and solemn the words:
+"We are gathered here,
+That we are safe from all harm,
+And haven for evermore."
+
+The chapel bell doth ring,
+With happy, sad tones;
+And deep in the woods,
+Where the butterflies soothed,
+Lift their sighing hands
+To heaven on high.
+
+And in the morning,
+The priest,
+With the white white mustache,
+Stirred,
+His wine
+```
