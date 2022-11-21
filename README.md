@@ -11,7 +11,7 @@ The basic commonsense model generates diverse lyrics adapting to the style and c
 
 Example of input file content:
 
-`{"start_text": "In a dark blue forest,\nWhere aspens tremble,\n", "max_len": 512, 'temperature': 0.7, 'top_k': 0, 'run_name': "lyrics_774M"}`
+`{"start_text": "In a dark blue forest,\nWhere aspens tremble,\n", "max_len": 128, 'temperature': 0.7, 'top_k': 0, 'run_name': "lyrics_774M"}`
 
 #### Outputs:
 `answer`: json string
